@@ -6,7 +6,7 @@ I’m [Zhangweijie](https://github.com/Zhangweijie)。
 - 👨‍💻 Studying Master of Fintech in Peking University
 - 🧑‍🔬 Majored in Information Management at HIT as an undergraduate
 - 💼 Focusing on Quant
-- ✉️ [reach me](mailto:zhangweijie@stu.pku.edu.cn)
+- ✉️ zhangweijie@stu.pku.edu.cn
 <!--
 ## 🔧 技术栈
 - **编程语言**: Python, SQL, JavaScript, HTML/CSS
