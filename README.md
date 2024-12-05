@@ -1,44 +1,29 @@
-<h2 align="center">👋 Hey! I'm Zhangweijie </h2>
-<br />
-❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
-<br />
-<br />
+# Welcome to my GitHub！
 
-- 🔭你好呀！💡
+I’m [Zhangweijie](https://github.com/Zhangweijie)，一个热衷于技术、数据科学、金融科技的开发者和学习者。
 
-- 🤔这里是忆阳的大象耳朵，会点小爬虫，想做一个有意思的前端工程师
+## 🚀 关于我
+- 👨‍💻 目前专注于数据分析、机器学习和金融科技领域的项目
+- 🧑‍🔬 过去在实验室工作，组织培训并领导团队参加竞赛
+- 💼 公司创始人，专注于设备行业的创新
+- 🌱 永远在学习新的编程语言和技术
+- 📚 热衷于探索、发现和分享量化知识
+- ✉️ [联系我](mailto:youremail@example.com)
 
-- ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢做游戏
+## 🔧 技术栈
+- **编程语言**: Python, SQL, JavaScript, HTML/CSS
+- **数据科学与机器学习**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+- **区块链与FinTech**: Solidity, Ethereum, Smart Contracts
+- **开发工具**: Git, Docker, VS Code, Jupyter Notebooks
 
+## 📈 项目
+1. **[数据仓库集成系统](https://github.com/zwjM/data-warehouse)**: 为公司开发的集成多种数据源的数据仓库，支持增量更新、历史数据维护等功能。
+2. **[金融科技创业计划](https://github.com/zwjM/fintech-project)**: 提供创新的区块链技术解决方案来管理物业费用。
 
-<img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
+## 📬 社交链接
+- [LinkedIn](https://www.linkedin.com/in/zhangweijie)
+- [Twitter](https://twitter.com/zwjM)
+- [个人博客](https://zhangweijie.blog)
 
-
-![](https://img.shields.io/badge/ubuntu-20.04-<COLOR>.svg)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&logo=Visual%20Studio%20Code)
-![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
-
-![html](https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/-css-1572B6?style=flat-square&logo=css3)
-![](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript) 
-![](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx)
-![Mysql](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=black)
-![Elastic](https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white)
-![](https://img.shields.io/badge/Cocos%20creator-blue.svg)
-
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=Xuenew&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Xuenew's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xuenew&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
-
-
-#### Top Repositories
-
-
-<a href="https://github.com/Xuenew/PyTopicsApiExplore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xuenew&repo=PyTopicsApiExplore&theme=buefy" />
-</a>
-<a href="https://github.com/Xuenew/Python_Spider_All">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Xuenew&repo=Python_Spider_All&theme=buefy" />
-</a>
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=zwjM&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="zhangweijie's GitHub Stats"> 
+<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=zwjM&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
